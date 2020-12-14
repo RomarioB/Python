@@ -13,6 +13,8 @@ body{
   text-align: center;
   font-size: 2.5rem;
   padding: 50px 50px 50px 50px;
+  position: relative;
+  min-height: 100vh;
 }
 .Python{
   max-width: 40%;
