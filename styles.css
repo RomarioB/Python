@@ -1,3 +1,12 @@
+html{
+  position:relative; 
+  min-height: 100%;
+}
+/*Normalize html and body elements,this style is just good to have*/
+html,body{
+  margin:0;
+  padding:0;
+}
 #title .container-fluid{
   padding: 0 15% 1%;
   text-align: left;
@@ -49,6 +58,7 @@ body{
   background-color: #3776ab;
   padding:50px 0 20px;
   color: white;
+  position: absolute;
   }
 .footer-link{
   color: white;
