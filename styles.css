@@ -65,9 +65,3 @@ body{
     opacity: 0;
   }
 }
-media (min-width: 0px){
-.navbar-expand-sm .navbar-nav .nav-link {
-    padding-right: .5rem;
-    padding-left: .5rem;
-}
-}
